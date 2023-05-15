@@ -1,0 +1,47 @@
+[
+    {
+        name:"Running",
+        Energy:20,
+        time:5
+    },
+    {
+        name:"Walking",
+        Energy:15,
+        time:10
+    },
+    {
+        name:"Cycling",
+        Energy:30,
+        time:10
+    },
+    {
+        name:"Swimming",
+        Energy:36,
+        time:5
+    },
+    {
+        name:"Skipping",
+        Energy:26,
+        time:5
+    },
+    {
+        name:"Stair Stepper",
+        Energy:21,
+        time:10
+    },
+    {
+        name:"Hiking",
+        Energy:40,
+        time:5
+    },
+    {
+        name:"Yoga",
+        Energy:16,
+        time:5
+    },
+    {
+        name:"Elliptical",
+        Energy:23,
+        time:10
+    }
+]
