@@ -17,6 +17,7 @@ To get started with the project, you will need to clone the repository to your P
 - Redux
 - React-Redux
 - TailwindCSs
+- recharts
 
 ## Backend
 
