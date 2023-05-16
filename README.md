@@ -1,8 +1,8 @@
 # Vitality_Tribe
 
-Daily Essential is an e-commerce website that was Founded in 2012, Daily Essential is a design-obsessed lifestyle accessories brand committed to making your everyday carry #lessordinary.
+Vitality tribe is a website which offers many different services to its users, which will help the users in having a healthy lifestyle and good workout routine.
 
-You can look forward to a carefully-crafted range of products, made from long-lasting materials, with designs that stand out and make your life easy. With Daily Essential, let your lifestyle reflect your sensibilities as you go on to make your every day #lessordinary.
+User can track the nutritional requirement, also contains charts for underatanding the trends. 
 
 # Getting Started
 To get started with the project, you will need to clone the repository to your PC .
@@ -11,43 +11,37 @@ To get started with the project, you will need to clone the repository to your P
 
 ## Frontend
 
-- HTML 
-- CSS
-- JavaScript
+- TyoeScript
 - React
 - React-Router-Dom
 - Redux
 - React-Redux
-- Chakra UI
-- Bootstrap
-- Styled Components
+- TailwindCSs
 
 ## Backend
+
 - Express
 - Mongodb
 - Mongoose
 - Cors
 - Dotenv
+- Jsonwebtoken
 
 # Pages
+
 - Home Page
 - SignUp and Login
-- Products Page
-- Product Description
-- Product Dashboard
-- Cart Page
-- Payment and Checkout Page
-- Admin Page
+- Guide 
+- Blogs
+- Dashboard
+- User profile
+- Community
 
 # Features
-- Home Page
-- Login and Signup - protected routes functionality.
-- Shopping Page - View Products by categories, filter and sort functionality.
-- Product Description Page.
-- Cart Page - Add and delete from cart functionality.
-- Payment and Checkout Page.
-- Used Redux for centralizing logic and manage state.
-- Used Backend for All the Crud Operations
+
+-  Login and sign up - form validation
+-  Protected Routes - Dashboard,Community
+-  Dashboard - recharts
 
 # Functionalities
 - Slider on Home Page.
@@ -64,10 +58,9 @@ One of the challenges faced during the development of this project was creating 
 
 # Contribution
 - Koushik Niyogi
-- Prashant Sathawane
-- Rajesh Pradhan
-- Neha Phadtare
-- Uddesh Jaiswal
+- Shubam Kandari
+- Om Kant
+
 
 # Deployed Link :- https://daily-essential-koushikniyogi.vercel.app/
 
